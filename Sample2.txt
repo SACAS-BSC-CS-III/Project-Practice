@@ -1,1 +1,2 @@
 This is the second text file
+I have edited this file
